@@ -1,5 +1,27 @@
 # TAREA-6-CAPITULO-11-12
 ## 1. OBJETIVOS
+## 1.1  CARGA, DESCARGA DEL CAPACITOR Y CIRCUITOS FORMADORES DE ONDA SIMPLES 
+-  Explicar por qué los transitorios ocurren en circuitos RC
+-  Explicar por qué un capacitor descargado parece como un cortocircuito cuando se energiza por primera vez.
+-  Describir por qué un capacitor parece un circuito abierto en estado estable de cd.
+-  Describir la carga y descarga de circuitos RC simples con excitación de cd.
+-  Determinar los voltajes y corrientes en circuitos RC simples durante la carga y descarga.
+-  Graficar el voltaje y transitorios de corriente.
+-  Entender el papel que desempeñan las constantes de tiempo en determinar la duración de los transitorios.
+-  Calcular constantes de tiempo.
+-  Describir el uso de las formas de onda de carga y descarga en aplicaciones simples de temporización.
+-  Resolver problemas simples de transitorios rc con pspice y
+Multisim.
+## 1.2  MAGNETISMO Y CIRCUITOS MAGNÉTICOS 
+- Representar los campos magnéticos usando el concepto de flujo de Faraday.
+- Describir los campos magnéticos en forma cuantitativa en términos del flujo y la densidad de flujo.
+- Explicar qué son los circuitos magnéticos y por qué se usan.
+- Determinar la intensidad de campo magnético o la densidad de flujo magnético de una curva B-H
+- Resolver circuitos magnéticos en serie.
+- Resolver circuitos magnéticos en serie-paralelo.
+- Calcular la fuerza de atracción de un electroimán.
+- Explicar la teoría de dominio del magnetismo.
+- Describir el proceso de desmagnetización.
 ##  2. MARCO TEÓRICO (RESUMEN)
 ## 2.1 CARGA, DESCARGA DEL CAPACITOR Y CIRCUITOS FORMADORES DE ONDA SIMPLES 
 ### 2.1.1 INTRODUCCIÓN
