@@ -77,6 +77,9 @@ Multisim.
 ## 4. CONCLUSIONES
 ## 4.1 CARGA, DESCARGA DEL CAPACITOR Y CIRCUITOS FORMADORES DE ONDA SIMPLES 
 ## 4.2  MAGNETISMO Y CIRCUITOS MAGNÉTICOS 
+-  Un electroimán es básicamente una bobina de alambre alrededor de un núcleo magnético.
+-  Los materiales que pueden ser magnetizados se llaman ferromagnéticos.
+-  Los polos magnéticos desiguales se atraen entre sí y los polos iguales se repelen uno a otro.
 ## 5. VIDEO
 ###  6. BIBLIOGRAFÍA
 - Roobins, A y Miller, W. (2007). *Análisis de circuitos teoría y práctica (4ta ed),* México DF, México: Cengage Learning.
