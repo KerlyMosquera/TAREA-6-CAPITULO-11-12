@@ -142,6 +142,8 @@ el corriente justo después de que el interruptor se ha cerrado?
 
 ![image](https://user-images.githubusercontent.com/84431598/126852881-d0e63b5c-668e-4244-b475-930431c034dc.png)
 
+![19 (2)](https://user-images.githubusercontent.com/84431598/126883149-bf6e5f4e-3384-410a-bdd8-29802892735c.png)
+
 21. Para el capacitor de la figura 11-51, V0 = 30 V.
 
 a. Determine la expresión para el voltaje de carga vC.
