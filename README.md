@@ -53,7 +53,9 @@ Multisim.
 ### 3.1.1 INTRODUCCIÓN 
 
 1. El capacitor de la figura 11-50 esta descargado.
+
 a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
+
 b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente
 cargado?
 
@@ -61,8 +63,11 @@ cargado?
 
 3. a. ¿A qué se parece un capacitor descargado en el instante que se conecta el
 interruptor?
+
 b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor?
+
 c. ¿A qué se parece un capacitor en estado estable de cd?
+
 d. ¿Qué se quiere decir con i(0_) y con i(0_)?
 
 5. Para un circuito de carga, R _ 5.6 k_ y vC(0_)_ 0 V. Si i(0_) _ 2.7 mA,
@@ -106,8 +111,11 @@ el corriente justo después de que el interruptor se ha cerrado?
 ![image](https://user-images.githubusercontent.com/84431598/126852881-d0e63b5c-668e-4244-b475-930431c034dc.png)
 
 21. Para el capacitor de la figura 11-51, V0 = 30 V.
+
 a. Determine la expresión para el voltaje de carga vC.
+
 b. Determine la expresión para la corriente iC.
+
 c. Grafique vC e iC.
 
 ![image](https://user-images.githubusercontent.com/84431598/126852919-9f56bc52-468c-487a-905f-73d96bc70824.png)
@@ -116,10 +124,15 @@ c. Grafique vC e iC.
 
 23. Para el circuito de la figura 11-53, suponga que el capacitor está cargado a
 50 V antes de que el interruptor se cierre.
+
 a. Determine la ecuación para el voltaje de descarga vC.
+
 b. Determine la ecuación para la corriente de descarga iC.
+
 c. Determine la constante de tiempo del circuito.
+
 d. Calcule vC e iC en t = 0 s, t = t, 2, 3, 4, y 5t.
+
 e. Grafique los resultados del inciso (d) con el eje del tiempo con escalas de
 segundos y de constantes de tiempo.
 
