@@ -85,6 +85,17 @@ d. ¿Qué se quiere decir con i(0_) y con i(0_)?
 7. Repita el problema 6 si R = 500 Ω, C =25 μF y E = 45 V, pero ahora
 calcule y grafique valores en t = 0^+ s, 20, 40, 60, 80 y 100 ms.
 
+	Determine la ecuación para el voltaje de carga v_C.
+	Determine la ecuación  para la corriente de carga i_C.
+	Por sustitución directa, calcule v_C  e i_C  para los valores dados.
+	Grafique v_C  e i_C en papel milimétrico con los resultados del inciso (c).
+
+![7-11](https://user-images.githubusercontent.com/84431598/126880967-6cde0171-66fd-4875-9013-8f5fd9be69e2.png)
+
+![7-2 (2)](https://user-images.githubusercontent.com/84431598/126880981-d55746be-1c65-47b6-8fb2-f9744862e789.png)
+
+![nadie (2)](https://user-images.githubusercontent.com/84431598/126881006-acd04f40-cdd9-40fd-9e21-b2e5b95674e4.png)
+
 
 9. Repita el problema 8 para el circuito de la figura 11-52.
 
