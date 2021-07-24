@@ -101,6 +101,8 @@ calcule y grafique valores en t = 0^+ s, 20, 40, 60, 80 y 100 ms.
 
 ![image](https://user-images.githubusercontent.com/84431598/126852704-951ccf26-c299-4608-8ba2-4b216f93f1fc.png)
 
+![9 (2)](https://user-images.githubusercontent.com/84431598/126881379-5931f433-ca67-4886-9c4b-12c30b52e62f.png)
+
 11. Determine la constante de tiempo para el circuito de la figura 11-50. ¿Cuánto
 tiempo (en segundos) tardará el capacitor en cargarse?
 
