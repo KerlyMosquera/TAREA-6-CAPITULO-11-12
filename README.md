@@ -61,6 +61,8 @@ cargado?
 
 ![image](https://user-images.githubusercontent.com/84431598/126852643-193268ba-2bbb-4142-8945-c6046f614cf9.png)
 
+![1-111](https://user-images.githubusercontent.com/84431598/126878938-1c63b68b-2176-4d23-899f-9bfc5f9db57a.png)
+
 3. a. ¿A qué se parece un capacitor descargado en el instante que se conecta el
 interruptor?
 
