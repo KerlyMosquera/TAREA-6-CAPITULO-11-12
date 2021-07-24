@@ -176,6 +176,8 @@ segundos y de constantes de tiempo.
 conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta
 el resistor?
 
+![25 (2)](https://user-images.githubusercontent.com/84431598/126883416-c1907d84-2cdc-4619-9f37-269178632858.png)
+
 ### 3.1.5 CIRCUITOS MÁS COMPLEJOS 
 ### 3.1.6 UNA APLICACIÓN DE LA TEMPORIZACIÓN RC 
 ### 3.1.7 RESPUESTA AL PULSO DE CIRCUITOS RC 
