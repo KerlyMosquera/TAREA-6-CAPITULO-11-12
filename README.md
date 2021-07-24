@@ -76,8 +76,9 @@ d. ¿Qué se quiere decir con i(0_) y con i(0_)?
 
 ### 3.1.2 ECUACIONES DE CARGA DEL CAPACITOR 
 
-7. Repita el problema 6 si R _ 500 _, C _ 25 _F y E _ 45 V, pero ahora
-calcule y grafique valores en t _ 0_ s, 20, 40, 60, 80 y 100 ms.
+7. Repita el problema 6 si R = 500 Ω, C =25 μF y E = 45 V, pero ahora
+calcule y grafique valores en t = 0^+ s, 20, 40, 60, 80 y 100 ms.
+
 
 9. Repita el problema 8 para el circuito de la figura 11-52.
 
