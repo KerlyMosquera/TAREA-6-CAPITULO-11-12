@@ -108,6 +108,8 @@ tiempo (en segundos) tardará el capacitor en cargarse?
 
 ![image](https://user-images.githubusercontent.com/84431598/126852759-eab1896b-00bc-4666-9140-92051c9d5261.png)
 
+![11 (2)](https://user-images.githubusercontent.com/84431598/126881843-fbc6730e-53a3-4abe-b505-21630f68c61b.png)
+
 13. Para la figura 11-50, el voltaje del capacitor con el interruptor abierto es de
 0 V. Cierre el interruptor en t =0 y determine el voltaje y corriente del capacitor
 en t = 0, 40, 80, 120, 160 y 200 us, use las curvas de la constante de
