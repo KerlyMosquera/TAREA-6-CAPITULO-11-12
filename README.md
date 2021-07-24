@@ -117,6 +117,15 @@ tiempo universal.
 
 ![image](https://user-images.githubusercontent.com/84431598/126852793-db058f59-0b6d-474a-9e70-99c0a63a9f55.png)
 
+![am (2)](https://user-images.githubusercontent.com/84431598/126882697-42e7c7b9-fc53-44e3-a08d-1d0eb355c691.png)
+
+![ab (2)](https://user-images.githubusercontent.com/84431598/126882736-d563a85e-cac7-4c07-a1c2-4b9fb8ae61a8.png)
+
+![h (2)](https://user-images.githubusercontent.com/84431598/126882772-222fe811-0d1f-48ca-be7d-2efeed39bec7.png)
+
+![q (2)](https://user-images.githubusercontent.com/84431598/126882800-bbe961f9-5248-43d9-99ea-3b8367a337c3.png)
+
+
 15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra.
 El capacitor tarda 1 s para cargarse. Si E =75 V, determine R y C.
 
