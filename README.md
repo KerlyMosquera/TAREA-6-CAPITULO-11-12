@@ -51,9 +51,84 @@ Multisim.
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE LOS EJERCICIOS
 ## 3.1 CARGA, DESCARGA DEL CAPACITOR Y CIRCUITOS FORMADORES DE ONDA SIMPLES 
 ### 3.1.1 INTRODUCCIÓN 
+
+1. El capacitor de la figura 11-50 esta descargado.
+a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
+b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente
+cargado?
+
+![image](https://user-images.githubusercontent.com/84431598/126852643-193268ba-2bbb-4142-8945-c6046f614cf9.png)
+
+3. a. ¿A qué se parece un capacitor descargado en el instante que se conecta el
+interruptor?
+b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor?
+c. ¿A qué se parece un capacitor en estado estable de cd?
+d. ¿Qué se quiere decir con i(0_) y con i(0_)?
+
+5. Para un circuito de carga, R _ 5.6 k_ y vC(0_)_ 0 V. Si i(0_) _ 2.7 mA,
+¿cuál es el valor de E? 
+
 ### 3.1.2 ECUACIONES DE CARGA DEL CAPACITOR 
-### 3.1.3 CAPACITOR CON UN VOLTAJE INICIAL 
+
+7. Repita el problema 6 si R _ 500 _, C _ 25 _F y E _ 45 V, pero ahora
+calcule y grafique valores en t _ 0_ s, 20, 40, 60, 80 y 100 ms.
+
+9. Repita el problema 8 para el circuito de la figura 11-52.
+
+![image](https://user-images.githubusercontent.com/84431598/126852704-951ccf26-c299-4608-8ba2-4b216f93f1fc.png)
+
+11. Determine la constante de tiempo para el circuito de la figura 11-50. ¿Cuánto
+tiempo (en segundos) tardará el capacitor en cargarse?
+
+![image](https://user-images.githubusercontent.com/84431598/126852759-eab1896b-00bc-4666-9140-92051c9d5261.png)
+
+13. Para la figura 11-50, el voltaje del capacitor con el interruptor abierto es de
+0 V. Cierre el interruptor en t =0 y determine el voltaje y corriente del capacitor
+en t = 0, 40, 80, 120, 160 y 200 us, use las curvas de la constante de
+tiempo universal.
+
+![image](https://user-images.githubusercontent.com/84431598/126852793-db058f59-0b6d-474a-9e70-99c0a63a9f55.png)
+
+15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra.
+El capacitor tarda 1 s para cargarse. Si E =75 V, determine R y C.
+
+
+17. Para la figura 11-2, determine E, R y C si el capacitor tarda 5 ms en cargarse,
+la corriente en 1 constante de tiempo después de que el interruptor se cierra es
+de 3.679 mA, y el capacitor se carga a 45 volts en estado estable.
+
+
+### 3.1.3 CONDENSADOR CON UN VOLTAJE INICIAL 
+
+19. El capacitor de la figura 11-50 tiene un voltaje inicial. Si V0 =10 V, ¿cuál es
+el corriente justo después de que el interruptor se ha cerrado?
+
+![image](https://user-images.githubusercontent.com/84431598/126852881-d0e63b5c-668e-4244-b475-930431c034dc.png)
+
+21. Para el capacitor de la figura 11-51, V0 = 30 V.
+a. Determine la expresión para el voltaje de carga vC.
+b. Determine la expresión para la corriente iC.
+c. Grafique vC e iC.
+
+![image](https://user-images.githubusercontent.com/84431598/126852919-9f56bc52-468c-487a-905f-73d96bc70824.png)
+
 ### 3.1.4 ECUACIONES DE DESCARGA DEL CAPACITOR 
+
+23. Para el circuito de la figura 11-53, suponga que el capacitor está cargado a
+50 V antes de que el interruptor se cierre.
+a. Determine la ecuación para el voltaje de descarga vC.
+b. Determine la ecuación para la corriente de descarga iC.
+c. Determine la constante de tiempo del circuito.
+d. Calcule vC e iC en t = 0 s, t = t, 2, 3, 4, y 5t.
+e. Grafique los resultados del inciso (d) con el eje del tiempo con escalas de
+segundos y de constantes de tiempo.
+
+![image](https://user-images.githubusercontent.com/84431598/126853000-4d4429ed-becd-4253-adfe-76ccc38a1aca.png)
+
+25. Un capacitor de 4.7 uF se carga a 43 volts. Si un resistor de 39 kΩ se
+conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta
+el resistor?
+
 ### 3.1.5 CIRCUITOS MÁS COMPLEJOS 
 ### 3.1.6 UNA APLICACIÓN DE LA TEMPORIZACIÓN RC 
 ### 3.1.7 RESPUESTA AL PULSO DE CIRCUITOS RC 
