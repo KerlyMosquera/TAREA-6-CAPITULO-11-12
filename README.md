@@ -70,8 +70,9 @@ c. ¿A qué se parece un capacitor en estado estable de cd?
 
 d. ¿Qué se quiere decir con i(0_) y con i(0_)?
 
-5. Para un circuito de carga, R _ 5.6 k_ y vC(0_)_ 0 V. Si i(0_) _ 2.7 mA,
+5. Para un circuito de carga, R  =5.6 kΩ y vC (0^-) = 0 V. Si i(0^+) = 2.7 mA,
 ¿cuál es el valor de E? 
+
 
 ### 3.1.2 ECUACIONES DE CARGA DEL CAPACITOR 
 
