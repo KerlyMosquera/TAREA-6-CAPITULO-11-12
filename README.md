@@ -202,6 +202,9 @@ segundos y de constantes de tiempo.
 
 ![23-3 (2)](https://user-images.githubusercontent.com/84431598/126887407-552a7121-0ab4-4841-b34e-de2a36163014.png)
 
+![23V (2)](https://user-images.githubusercontent.com/84431598/126917076-1fcc3873-4aeb-4c49-9a7d-a199d41919fc.png)
+
+![23I (2)](https://user-images.githubusercontent.com/84431598/126917104-be1d7a68-268a-4857-bad4-055d4300e4db.png)
 
 25. Un capacitor de 4.7 uF se carga a 43 volts. Si un resistor de 39 kΩ se
 conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta
