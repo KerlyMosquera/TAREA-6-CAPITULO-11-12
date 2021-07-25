@@ -178,6 +178,15 @@ segundos y de constantes de tiempo.
 
 ![image](https://user-images.githubusercontent.com/84431598/126853000-4d4429ed-becd-4253-adfe-76ccc38a1aca.png)
 
+![23 (2)](https://user-images.githubusercontent.com/84431598/126887342-143d7898-5ed4-427c-b321-b2cfd943dbbe.png)
+
+![23-1 (2)](https://user-images.githubusercontent.com/84431598/126887365-4c2cf370-47d7-4d6f-ad35-31837e400fd5.png)
+
+![23-2 (2)](https://user-images.githubusercontent.com/84431598/126887387-059e149d-6afb-48f5-a69e-d6a5aa400ade.png)
+
+![23-3 (2)](https://user-images.githubusercontent.com/84431598/126887407-552a7121-0ab4-4841-b34e-de2a36163014.png)
+
+
 25. Un capacitor de 4.7 uF se carga a 43 volts. Si un resistor de 39 kΩ se
 conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta
 el resistor?
