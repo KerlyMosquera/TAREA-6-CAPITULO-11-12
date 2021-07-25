@@ -135,10 +135,17 @@ tiempo universal.
 15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra.
 El capacitor tarda 1 s para cargarse. Si E =75 V, determine R y C.
 
+![11 2 (3)2](https://user-images.githubusercontent.com/84431598/126887702-8d0bd7ff-ae0c-4175-b3d8-6b8d56102f1b.png)
+
+![15 (2)](https://user-images.githubusercontent.com/84431598/126887915-84296435-297b-4556-92fa-bcfb50d6f806.png)
 
 17. Para la figura 11-2, determine E, R y C si el capacitor tarda 5 ms en cargarse,
 la corriente en 1 constante de tiempo después de que el interruptor se cierra es
 de 3.679 mA, y el capacitor se carga a 45 volts en estado estable.
+
+![11 2 (3)2](https://user-images.githubusercontent.com/84431598/126887704-4d142024-bb35-4091-833f-15e87aba0f2c.png)
+
+![17 (2)](https://user-images.githubusercontent.com/84431598/126888090-6d153acc-3fe2-4b87-b557-ed553874be5c.png)
 
 
 ### 3.1.3 CONDENSADOR CON UN VOLTAJE INICIAL 
