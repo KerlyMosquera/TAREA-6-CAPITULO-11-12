@@ -184,26 +184,126 @@ el resistor?
 
 ![25 (2)](https://user-images.githubusercontent.com/84431598/126883416-c1907d84-2cdc-4619-9f37-269178632858.png)
 
+27. Para la figura 11-54, sea E = 200 V, R2 =1 kΩ y C = 0.5 μF. Después de
+que el capacitor está totalmente cargado en la posición 1, el interruptor es movido
+a la posición 2.
+
+a. ¿Qué voltaje tiene el capacitor inmediatamente después de que el interruptor
+es movido a la posición 2? ¿Cuál es la corriente?
+
+b. ¿Cuál es la constante de tiempo de descarga?
+
+c. Determine las ecuaciones de descarga para vC e iC.
+
+![11-54(2)](https://user-images.githubusercontent.com/84431598/126886092-6b5fbf92-5266-4e3b-8f90-8c65a2436a76.png)
+
 ### 3.1.5 CIRCUITOS MÁS COMPLEJOS 
+
+29. Los capacitores de la figura 11-55 están descargados. El interruptor se cierra
+en t = 0. Determine la ecuación para vC. Calcule vC a una constante de tiempo
+usando la ecuación y la curva de constante de tiempo universal. Compare sus
+respuestas.
+
+![11-55 (2)](https://user-images.githubusercontent.com/84431598/126886155-c8873c6f-cb84-4921-8c6f-5d9fcd26760c.png)
+
+31. Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57.
+
+![11-57 (2)](https://user-images.githubusercontent.com/84431598/126886182-3637df96-c893-4395-9c55-fa2131396ae1.png)
+
+33. Para el circuito de la figura 11-54, el capacitor esta inicialmente descargado.
+El interruptor es movido primero a la posición de carga y luego a la de descarga,
+proporcionando la corriente que se muestra en la figura 11-58. El capacitor
+se carga totalmente en 12.5 s. Determine E, R2 y C.
+
+![11-54(2)](https://user-images.githubusercontent.com/84431598/126886207-b6e480a7-e556-4704-80a5-be1ac48cd700.png)
+
+35. Determine los voltajes del capacitor y la corriente de la fuente para el circuito
+de la figura 11-60 después de que se alcanzó el estado estable.
+
+![11-60 (2)](https://user-images.githubusercontent.com/84431598/126886250-1e307d99-1b6d-4530-b8d3-4283b3c611d0.png)
+
 ### 3.1.6 UNA APLICACIÓN DE LA TEMPORIZACIÓN RC 
+
+37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es
+de 5 V, R = 750 kΩy la alarma es activada en 15 s cuando vC = 3.8 V, ¿que
+valor tiene C?
+
 ### 3.1.7 RESPUESTA AL PULSO DE CIRCUITOS RC 
+
+39. Considere la forma de onda de la figura 11-62.
+a. ¿Cuál es el periodo?
+
+b. ¿Cuál es el ciclo de trabajo?
+
+c. ¿Cuál es el VRP?
+
+![11-62 (2)](https://user-images.githubusercontent.com/84431598/126886306-4e77e3da-c0b1-4433-9e98-50f3a3288044.png)
+
+41. Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de
+la figura 11-64.
+
+![11-64 (2)](https://user-images.githubusercontent.com/84431598/126886340-8fe5967a-7b88-4d90-bdd1-f1552d55c94d.png)
+
+43. Se aplica un escalón al circuito de la figura 11-66. Si R = 150Ω y C =20 pF,
+estime el tiempo que tarda en subir el voltaje de salida.
+
+
 ### 3.1.8  ANÁLISIS TRANSITORIO POR COMPUTADORA 
+
+45. Grafique el voltaje del capacitor para el circuito de la figura 11-2 con E =
+-25 V, R =40Ω, V0 = 0 V y C =400 μF (vease la Nota 1). Fije los valores
+para la escala de la gráfica en t = 20 ms, utilice el cursor. Compare los resultados
+que obtuvo con la ecuación 11-3 o la curva de la figura 11-15(a).
+
+47. Considere la figura 11-57. Use Multisim y suponga condiciones iniciales de
+cero para ambos capacitores. Haga lo siguiente (véase la Nota 3).
+a. Haga una gráfica del voltaje del capacitor para el circuito de la figura
+11-57 y encuentre vC en t = 4 ms.
+b. Determine la corriente en el resistor de 4 _ en t = 3.5 ms.
+
+49. Use PSpice para graficar el voltaje y la corriente del capacitor de un circuito
+de carga con E = 25 V, R = 40 Ω, V0 = 0 V y C = 400 μF. Determine los
+valores de la escala de la gráfica con el cursor. Use las ecuaciones 11-3 y 11-5
+o las curvas de la figura 11-15 para comparar los resultados que obtuvo.
+
+51. El interruptor de la figura 11-69 está cerrado en t = 0 s. Use PSpice para
+hacer una gráfica de las formas de onda del voltaje y la corriente. Utilice el
+cursor para determinar vC e iC en t = 10 ms.
+
+![11-69 (2)](https://user-images.githubusercontent.com/84431598/126886488-e7ec136a-491f-4941-968f-5cd8c8c6d9d2.png)
+
+53. Use PSpice para encontrar los voltajes y corrientes en el circuito de la figura
+11-60. A partir de ello, determine los voltajes y corrientes finales (en estado
+estable) y compare los resultados con los que obtuvo en el problema 35.
 ## 3.2  MAGNETISMO Y CIRCUITOS MAGNÉTICOS 
-### 3.2.1  LA NATURALEZA DE UN CAMPO MAGNÉTICO 
-### 3.2.2 ELECTROMAGNETISMO
 ### 3.2.3 FLUJO MAGNÉTICO Y DENSIDAD DE FLUJO 
-### 3.2.4 CIRCUITOS MAGNÉTICOS
+
+1. Vea la figura 12-41:
+a. ¿Qué área, A1 o A2, utilizaría para calcular la densidad de flujo?
+b. Si ϕ= 28 mWb, ¿cuál es la densidad de flujo en teslas?
+
+![12-41 (2)](https://user-images.githubusercontent.com/84431598/126886643-80c096cf-bd16-4779-8d39-e03902271f5b.png)
+
+3. El toroide de la figura 12-42 tiene una sección transversal circular y φ= 628
+μWb. Si r1 = 8 cm y r2 = 12 cm, ¿cuál es la densidad de flujo en teslas?
+
+![12-42 (2)](https://user-images.githubusercontent.com/84431598/126886620-5ce009dc-8d9e-44a0-8bf2-b2fffe087339.png)
+
+
 ### 3.2.5 ESPACIOS DE AIRE, DESBORDAMIENTO Y NÚCLEOS LAMINADOS 
+
+5. Si la sección del nucleó en la figura 12-43 que mide 0.025 m por 0.04 m, tiene
+un factor de apilamiento de 0.85 y B = 1.45 T, ¿qué valor tiene ϕ en webers?
+
+
+
 ### 3.2.6  ELEMENTOS EN SERIE Y EN PARALELO 
-### 3.2.7  CIRCUITOS MAGNÉTICOS CON EXCITACIÓN DE CD 
 ### 3.2.8 INTENSIDAD DE CAMPO MAGNÉTICO Y CURVAS DE MAGNETIZACIÓN 
 ### 3.2.9 LEY DE CIRCUITOS DE AMPÈRE 
 ### 3.2.10  CIRCUITOS MAGNÉTICOS EN SERIE: A PARTIR DE DETERMINAR NI 
 ### 3.2.11 CIRCUITOS MAGNÉTICOS SERIE-PARALELO
 ### 3.2.12 CIRCUITOS MAGNÉTICOS EN SERIE: A PARTIR DE NI DETERMINAR 
 ### 3.2.13 FUERZA DEBIDA A UN ELECTROIMÁN 
-### 3.2.14 PROPIEDADES DE LOS MATERIALES MAGNÉTICOS 
-### 3.2.15 MEDICIÓN DE CAMPOS MAGNÉTICOS
 ## 4. CONCLUSIONES
 ## 4.1 CARGA, DESCARGA DEL CAPACITOR Y CIRCUITOS FORMADORES DE ONDA SIMPLES 
 ## 4.2  MAGNETISMO Y CIRCUITOS MAGNÉTICOS 
