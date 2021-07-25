@@ -169,6 +169,10 @@ c. Grafique vC e iC.
 
 ![21 (2)](https://user-images.githubusercontent.com/84431598/126888370-7c0acfc7-fb7f-4494-9087-6a79b9ae8b64.png)
 
+![VOLTAJEGR21](https://user-images.githubusercontent.com/84431598/126889140-7d395ac2-f856-4b12-8cc5-6e806590c53d.png)
+
+![CORRIENTE (2)](https://user-images.githubusercontent.com/84431598/126889117-8b93b1af-d867-43a7-ab11-3c241e0595bc.png)
+
 ### 3.1.4 ECUACIONES DE DESCARGA DEL CAPACITOR 
 
 23. Para el circuito de la figura 11-53, suponga que el capacitor está cargado a
