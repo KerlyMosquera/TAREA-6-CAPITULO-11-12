@@ -102,6 +102,9 @@ calcule y grafique valores en t = 0^+ s, 20, 40, 60, 80 y 100 ms.
 
 ![nadie (2)](https://user-images.githubusercontent.com/84431598/126881006-acd04f40-cdd9-40fd-9e21-b2e5b95674e4.png)
 
+![7 CO (3)](https://user-images.githubusercontent.com/84431598/126916069-a1c5ef55-6a91-45da-84c5-2822137faea4.png)
+
+![7VO (2)](https://user-images.githubusercontent.com/84431598/126916100-53697d49-92c9-44aa-ac0a-f72a13eac7e5.png)
 
 9. Repita el problema 8 para el circuito de la figura 11-52.
 
