@@ -33,7 +33,7 @@ Multisim.
 ### 2.1.4 ECUACIONES DE DESCARGA DEL CAPACITOR 
 ### 2.1.5 CIRCUITOS MÁS COMPLEJOS 
 
-![circuitos mas complejos (2)](https://user-images.githubusercontent.com/84431598/127392570-a4b53cc3-ee99-42de-825e-edf5bf5f2fdf.png)
+![1 (2)](https://user-images.githubusercontent.com/84431598/127394447-0e0d54a0-ed14-414f-9c5f-a71adf2409c2.png)
 
 ### 2.1.6 UNA APLICACIÓN DE LA TEMPORIZACIÓN RC 
 
