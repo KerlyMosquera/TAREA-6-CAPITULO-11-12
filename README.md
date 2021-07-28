@@ -41,7 +41,7 @@ Multisim.
 
 ### 2.1.7 RESPUESTA AL PULSO DE CIRCUITOS RC 
 
-![Respuestas al pulso (2)](https://user-images.githubusercontent.com/84431598/127392732-f38641eb-8d18-4c27-a5b2-b4307efd9d08.png)
+![circuitos rc (2)](https://user-images.githubusercontent.com/84431598/127392953-3c60f6c1-1d75-4a96-bd85-ba55ab79d7ff.png)
 
 ### 2.1.8 ANÁLISIS TRANSITORIO POR COMPUTADORA 
 ## 2.2  MAGNETISMO Y CIRCUITOS MAGNÉTICOS 
