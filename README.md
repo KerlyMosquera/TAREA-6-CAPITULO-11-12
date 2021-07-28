@@ -33,7 +33,7 @@ Multisim.
 ### 2.1.4 ECUACIONES DE DESCARGA DEL CAPACITOR 
 ### 2.1.5 CIRCUITOS MÁS COMPLEJOS 
 
-![1 (2)](https://user-images.githubusercontent.com/84431598/127394447-0e0d54a0-ed14-414f-9c5f-a71adf2409c2.png)
+![1 (3)](https://user-images.githubusercontent.com/84431598/127395365-cc398bd2-1b9b-4674-bbdb-6b73dc35e833.png)
 
 ### 2.1.6 UNA APLICACIÓN DE LA TEMPORIZACIÓN RC 
 
@@ -42,7 +42,6 @@ Multisim.
 ### 2.1.7 RESPUESTA AL PULSO DE CIRCUITOS RC 
 
 ![circuitos rc 1png](https://user-images.githubusercontent.com/84431598/127393196-69e96c36-0326-4fac-8faf-8aaa6d917179.png)
-
 
 ### 2.1.8 ANÁLISIS TRANSITORIO POR COMPUTADORA 
 ## 2.2  MAGNETISMO Y CIRCUITOS MAGNÉTICOS 
