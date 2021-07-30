@@ -73,8 +73,7 @@ Multisim.
 
 ![Circuitos magnéticos en serie_ a partir de Φ determinar NI](https://user-images.githubusercontent.com/84425276/127590612-ae7fb137-6860-4250-97e5-05baa1f7a84e.png)
 
-### 2.2.11 CIRCUITOS MAGNÉTICOS SERIE-PARALELO 
-### 2.2.12 CIRCUITOS MAGNÉTICOS EN SERIE: A PARTIR DE NI DETERMINAR Φ
+### 2.2.12 CIRCUITOS MAGNÉTICOS EN SERIE: A PARTIR DE NI DETERMINAR Φ Y CIRCUITOS MAGNÉTICOS EN SERIE - PARALELO
 
 ![Circuitos magnéticos serie-paralelo](https://user-images.githubusercontent.com/84425276/127590705-25807e0f-9b62-418b-bae4-9215d1fedb1e.png)
 
