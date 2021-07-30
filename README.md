@@ -30,8 +30,9 @@ Multisim.
 
 ### 2.1.2 ECUACIONES DE CARGA DEL CAPACITOR 
 
+![EC CARGA (2)](https://user-images.githubusercontent.com/84431598/127677104-e61ccc48-22eb-4083-b768-93ab64e78e7a.png)
 
-### 2.1.3  CAPACITOR CON UN VOLTAJE INICIAL 
+### 2.1.3 CONDENSADOR CON UN VOLTAJE INICIAL 
 
 ![capacitor con un voltaje inicial (2)](https://user-images.githubusercontent.com/84431598/126885960-326f62f8-cf78-40f5-b440-31ee48600506.png)
 
@@ -492,10 +493,29 @@ b. Si ϕ= 28 mWb, ¿cuál es la densidad de flujo en teslas?
 
 ## 4. CONCLUSIONES
 #### 4.1 CARGA, DESCARGA DEL CAPACITOR Y CIRCUITOS FORMADORES DE ONDA SIMPLES 
+-  Se puede considerar que los transitorios duran solo cinco constantes de
+tiempo
+- La curva constante de tiempo universal también puede usarse para problemas de descarga ya
+que tiene la misma forma que las formas de onda de la descarga.
+-  Se usa  τ_C para representar la constante de tiempo para la carga y τ_d para
+representar la constante de tiempo para la descarga. Ya que la resistencia
+y capacitancia equivalente para la descarga pueden ser diferentes que
+para la carga, las constantes de tiempo también pueden ser diferentes en
+los dos casos.
+- Cuando se resuelve un problema de transitorio con múltiples operaciones
+de interruptores, siempre se debe dibujar el circuito como se ve durante cada
+intervalo de tiempo de interés.
+- Cuando un capacitor se coloca entre una fuente de cd, excepto por un breve transitorio, la
+corriente es cero.
+-  
 #### 4.2  MAGNETISMO Y CIRCUITOS MAGNÉTICOS 
 -  Un electroimán es básicamente una bobina de alambre alrededor de un núcleo magnético.
 -  Los materiales que pueden ser magnetizados se llaman ferromagnéticos.
 -  Los polos magnéticos desiguales se atraen entre sí y los polos iguales se repelen uno a otro.
+-  Campo alrededor de un conductor que lleva corriente. Si la corriente
+se invierte, el campo permanece concéntrico pero la dirección de las líneas
+de flujo ira en sentido contrario.
+-  La orientación aleatoria de los campos microscópicos en un material ferromagnético no magnetizado. Las pequeñas regiones se llaman dominios.
 ## 5. VIDEO
 
 https://youtu.be/d4gcAp8F6zk
