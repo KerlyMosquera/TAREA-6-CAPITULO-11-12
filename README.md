@@ -56,13 +56,34 @@ Multisim.
 ### 2.2.6  ELEMENTOS EN SERIE Y EN PARALELO 
 ### 2.2.7 CIRCUITOS MAGNÉTICOS CON EXCITACIÓN DE CD 
 ### 2.2.8  INTENSIDAD DE CAMPO MAGNÉTICO Y CURVAS DE MAGNETIZACIÓN 
+
+![Intensidad de campo magnético y curvas de magnetización](https://user-images.githubusercontent.com/84425276/127590524-9e7b948f-2fc5-450f-bc6f-cc8a49bbcfc9.png)
+
 ### 2.2.9  LEY DE CIRCUITOS DE AMPÈRE 
-### 2.2.10  CIRCUITOS MAGNÉTICOS EN SERIE: A PARTIR DE DETERMINAR NI 
+
+![Ley de circuitos de Ampère](https://user-images.githubusercontent.com/84425276/127590578-09397e11-65f8-4764-a32e-1ed56e7b3d49.png)
+
+### 2.2.10  CIRCUITOS MAGNÉTICOS EN SERIE: A PARTIR DE Φ DETERMINAR NI 
+
+![Circuitos magnéticos en serie_ a partir de Φ determinar NI](https://user-images.githubusercontent.com/84425276/127590612-ae7fb137-6860-4250-97e5-05baa1f7a84e.png)
+
 ### 2.2.11 CIRCUITOS MAGNÉTICOS SERIE-PARALELO 
-### 2.2.12 CIRCUITOS MAGNÉTICOS EN SERIE: A PARTIR DE NI DETERMINAR 
+### 2.2.12 CIRCUITOS MAGNÉTICOS EN SERIE: A PARTIR DE NI DETERMINAR Φ
+
+![Circuitos magnéticos serie-paralelo](https://user-images.githubusercontent.com/84425276/127590705-25807e0f-9b62-418b-bae4-9215d1fedb1e.png)
+
 ### 2.2.13 FUERZA DEBIDA A UN ELECTROIMÁN 
+
+![Fuerza debida a un electroimán](https://user-images.githubusercontent.com/84425276/127590741-36e8a104-5737-4cf7-94d4-40e263700536.png)
+
 ### 2.2.14 PROPIEDADES DE LOS MATERIALES MAGNÉTICOS 
+
+![Propiedades de los materiales magnéticos](https://user-images.githubusercontent.com/84425276/127590758-ea636f73-407b-42a2-883a-d437a22bf4d6.png)
+
 ### 2.2.15 MEDICIÓN DE CAMPOS MAGNÉTICOS
+
+![Medición de campos magnéticos](https://user-images.githubusercontent.com/84425276/127590774-bac25c67-dd20-444c-adde-90abf77d9dc3.png)
+
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE LOS EJERCICIOS
 ## 3.1 CARGA, DESCARGA DEL CAPACITOR Y CIRCUITOS FORMADORES DE ONDA SIMPLES 
 ### 3.1.1 INTRODUCCIÓN 
