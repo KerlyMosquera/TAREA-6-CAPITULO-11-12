@@ -414,6 +414,8 @@ cursor para determinar vC e iC en t = 10 ms.
 
 ![11-69 (2)](https://user-images.githubusercontent.com/84431598/126886488-e7ec136a-491f-4941-968f-5cd8c8c6d9d2.png)
 
+![6 (2)](https://user-images.githubusercontent.com/84458025/127696099-4f0585bc-884e-458b-9eee-ed2c53bc1351.png)
+
 53. Use PSpice para encontrar los voltajes y corrientes en el circuito de la figura
 11-60. A partir de ello, determine los voltajes y corrientes finales (en estado
 estable) y compare los resultados con los que obtuvo en el problema 35.
