@@ -380,18 +380,20 @@ b. Si ϕ= 28 mWb, ¿cuál es la densidad de flujo en teslas?
 
 ![12-41 (2)](https://user-images.githubusercontent.com/84431598/126886643-80c096cf-bd16-4779-8d39-e03902271f5b.png)
 
+![image](https://user-images.githubusercontent.com/84458025/127586272-24f29d0d-ba59-4b7a-b07b-56faa42da157.png)
+
 3. El toroide de la figura 12-42 tiene una sección transversal circular y φ= 628
 μWb. Si r1 = 8 cm y r2 = 12 cm, ¿cuál es la densidad de flujo en teslas?
 
 ![12-42 (2)](https://user-images.githubusercontent.com/84431598/126886620-5ce009dc-8d9e-44a0-8bf2-b2fffe087339.png)
 
+![image](https://user-images.githubusercontent.com/84458025/127586316-ca243a06-a223-4b5b-a9a7-0b13e0e7ac4c.png)
 
 ### 3.2.5 ESPACIOS DE AIRE, DESBORDAMIENTO Y NÚCLEOS LAMINADOS 
 
-5. Si la sección del nucleó en la figura 12-43 que mide 0.025 m por 0.04 m, tiene
-un factor de apilamiento de 0.85 y B = 1.45 T, ¿qué valor tiene ϕ en webers?
+5. Si la sección del nucleó en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B = 1.45 T, ¿qué valor tiene ϕ en webers?
 
-
+![image](https://user-images.githubusercontent.com/84458025/127586388-9aad9b3c-8949-41f9-b5ca-d5765907c487.png)
 
 ### 3.2.6  ELEMENTOS EN SERIE Y EN PARALELO 
 ### 3.2.8 INTENSIDAD DE CAMPO MAGNÉTICO Y CURVAS DE MAGNETIZACIÓN 
