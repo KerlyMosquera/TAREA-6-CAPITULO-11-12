@@ -420,12 +420,71 @@ b. Si ϕ= 28 mWb, ¿cuál es la densidad de flujo en teslas?
 ![image](https://user-images.githubusercontent.com/84458025/127586388-9aad9b3c-8949-41f9-b5ca-d5765907c487.png)
 
 ### 3.2.6  ELEMENTOS EN SERIE Y EN PARALELO 
+
+7. Para la sección del núcleo de hierro de la figura 12-45, si Φ_1=12 mWb y Φ_3=2 mWb, ¿cuánto vale B_2?
+
+![image](https://user-images.githubusercontent.com/84425276/127591141-70bf8a67-60ee-4268-80dd-e5c13e710ffa.png)
+
 ### 3.2.8 INTENSIDAD DE CAMPO MAGNÉTICO Y CURVAS DE MAGNETIZACIÓN 
+
+9. Un núcleo con dimensiones de 2 cm X 3 cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene Φ si el núcleo es de hierro fundido? ¿Si es de acero fundido? ¿Si es de hoja de acero con FA 0,94?
+
+![image](https://user-images.githubusercontent.com/84425276/127591213-24f42fb0-8c25-4de5-a60b-4e628ad0e523.png)
+
+11. Considere una vez más la figura 12-42. Si I=10 A, N=40 vueltas, r_1=5 cm y r_2=7 cm, ¿qué valor tiene H en amperes-vuelta por metro?
+
+![image](https://user-images.githubusercontent.com/84425276/127591284-345f140b-d955-44ed-8034-e6d4a970a822.png)
+
 ### 3.2.9 LEY DE CIRCUITOS DE AMPÈRE 
-### 3.2.10  CIRCUITOS MAGNÉTICOS EN SERIE: A PARTIR DE DETERMINAR NI 
+
+13. Suponga que una bobina N_2 que lleva la corriente I_2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
+
+![image](https://user-images.githubusercontent.com/84425276/127591335-e5107c91-1f33-41eb-a25c-7047d5bdfcde.png)
+
+### 3.2.10  CIRCUITOS MAGNÉTICOS EN SERIE: A PARTIR DE Φ DETERMINAR NI 
+
+15. Encuentre la corriente I en la figura 12-48 si Φ=0,16 mWb.
+
+![image](https://user-images.githubusercontent.com/84425276/127591417-58c987d0-25d4-4cb1-85af-b56da181ae5b.png)
+
+17. Se corta un espacio de 0,5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para Φ=0,128 mWb. No tome en cuenta el desbordamiento.
+
+![image](https://user-images.githubusercontent.com/84425276/127591472-aa4f5cb7-79ec-42f1-859a-26d1bf1b6306.png)
+
+19. El núcleo de hierro fundido de la figura 12-49 mide 1 cm X 1,5 cm, l_a=0,3mm, la densidad de flujo del espacio de aire es de 0,426 T y N = 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I.
+
+![image](https://user-images.githubusercontent.com/84425276/127591563-8c2cb1da-46aa-484d-8336-99f0c358a301.png)
+
+21. Para el circuito de la figura 12-51, Φ=30 X μWb y N = 2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I.
+
+![image](https://user-images.githubusercontent.com/84425276/127591617-090315cc-3a32-4e04-894e-73afe63d965b.png)
+
+23. Una segunda bobina de 450 vueltas con I_2=4 amperes se devana en la porción de acero fundido de la figura 12-52. Su flujo está en oposición al flujo producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente I_1.
+
+![image](https://user-images.githubusercontent.com/84425276/127591651-f1a95745-2b11-418c-8867-d7cab9c0ed3a.png)
+
+![image](https://user-images.githubusercontent.com/84425276/127591725-1506897c-639d-45c4-8507-897e465476d2.png)
+
 ### 3.2.11 CIRCUITOS MAGNÉTICOS SERIE-PARALELO
-### 3.2.12 CIRCUITOS MAGNÉTICOS EN SERIE: A PARTIR DE NI DETERMINAR 
+
+25. Si el circuito de la figura 12-53 no tiene espacio y Φ_3=0,2 mWb, encuentre I.
+
+![image](https://user-images.githubusercontent.com/84425276/127591787-49ea832c-bca4-4335-a48b-d5b3b52c6eca.png)
+
+### 3.2.12 CIRCUITOS MAGNÉTICOS EN SERIE: A PARTIR DE NI DETERMINAR Φ
+
+27. Si NI = 644 Av para el núcleo de acero fundido de la figura 12-54, encuentre el flujo, Φ.
+
+![image](https://user-images.githubusercontent.com/84425276/127591891-5d0f7f9a-9d47-4462-bfc7-f402e0d551bb.png)
+
 ### 3.2.13 FUERZA DEBIDA A UN ELECTROIMÁN 
+
+29. Para el relevador de la figura 12-34, si la cara del polo mide 2 cm por 2,5 cm y se requiere una fuerza de 2 libras para cerrar el espacio, ¿cuánto flujo se necesita (en webers)?
+
+![image](https://user-images.githubusercontent.com/84425276/127591918-5931dd64-efb4-4327-84d8-ecf224a37590.png)
+
+![image](https://user-images.githubusercontent.com/84425276/127591934-d1b14eaf-6efe-4a66-849b-9186ecbb0e06.png)
+
 ## 4. CONCLUSIONES
 ## 4.1 CARGA, DESCARGA DEL CAPACITOR Y CIRCUITOS FORMADORES DE ONDA SIMPLES 
 ## 4.2  MAGNETISMO Y CIRCUITOS MAGNÉTICOS 
