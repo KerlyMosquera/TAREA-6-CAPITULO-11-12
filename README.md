@@ -52,10 +52,19 @@ Multisim.
 
 ![circuitos rc 1png](https://user-images.githubusercontent.com/84431598/127393196-69e96c36-0326-4fac-8faf-8aaa6d917179.png)
 
-### 2.1.8 ANÁLISIS TRANSITORIO POR COMPUTADORA 
+### 2.1.8 ANÁLISIS TRANSITORIO POR COMPUTADORA
+
+![Diapositiva1](https://user-images.githubusercontent.com/84458025/127683628-609f88ed-e47f-4709-8a8e-4d2a33d4d19b.PNG)
+
 ## 2.2  MAGNETISMO Y CIRCUITOS MAGNÉTICOS 
 ### 2.2.1  LA NATURALEZA DE UN CAMPO MAGNÉTICO 
+
+![Diapositiva2](https://user-images.githubusercontent.com/84458025/127683835-d1e43733-b716-4238-bd3b-5cafc3b8e988.PNG)
+
 ### 2.2.2 ELECTROMAGNETISMO 
+
+![Diapositiva3](https://user-images.githubusercontent.com/84458025/127683796-b34505a2-e410-4eb6-b5bb-138c0caf2ea5.PNG)
+
 ### 2.2.3 FLUJO MAGNÉTICO Y DENSIDAD DE FLUJO 
 ### 2.2.4  CIRCUITOS MAGNÉTICOS 
 ### 2.2.5 ESPACIOS DE AIRE, DESBORDAMIENTO Y NÚCLEOS LAMINADOS 
