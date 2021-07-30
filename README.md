@@ -492,6 +492,9 @@ b. Si ϕ= 28 mWb, ¿cuál es la densidad de flujo en teslas?
 -  Los materiales que pueden ser magnetizados se llaman ferromagnéticos.
 -  Los polos magnéticos desiguales se atraen entre sí y los polos iguales se repelen uno a otro.
 ## 5. VIDEO
+
+https://youtu.be/d4gcAp8F6zk
+
 ###  6. BIBLIOGRAFÍA
 - Roobins, A y Miller, W. (2007). *Análisis de circuitos teoría y práctica (4ta ed),* México DF, México: Cengage Learning.
 -  Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
