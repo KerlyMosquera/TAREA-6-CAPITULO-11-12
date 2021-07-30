@@ -29,6 +29,9 @@ Multisim.
 ![INTR0 (2)](https://user-images.githubusercontent.com/84431598/127587730-ce830f28-3f37-4db8-8fd2-cc5d5c8517c7.png)
 
 ### 2.1.2 ECUACIONES DE CARGA DEL CAPACITOR 
+
+![EC DE DESCARGA (2)](https://user-images.githubusercontent.com/84431598/127674545-bdd8704c-5f40-42be-a9f6-d022ecaf3eba.png)
+
 ### 2.1.3  CAPACITOR CON UN VOLTAJE INICIAL 
 
 ![capacitor con un voltaje inicial (2)](https://user-images.githubusercontent.com/84431598/126885960-326f62f8-cf78-40f5-b440-31ee48600506.png)
