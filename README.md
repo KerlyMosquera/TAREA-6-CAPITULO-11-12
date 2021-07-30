@@ -66,10 +66,18 @@ Multisim.
 ![Diapositiva3](https://user-images.githubusercontent.com/84458025/127683796-b34505a2-e410-4eb6-b5bb-138c0caf2ea5.PNG)
 
 ### 2.2.3 FLUJO MAGNÉTICO Y DENSIDAD DE FLUJO 
+
+![Diapositiva1](https://user-images.githubusercontent.com/84458025/127693302-41b8b0ec-b466-402e-80a2-073ceca28f44.JPG)
+
 ### 2.2.4  CIRCUITOS MAGNÉTICOS 
-### 2.2.5 ESPACIOS DE AIRE, DESBORDAMIENTO Y NÚCLEOS LAMINADOS 
-### 2.2.6  ELEMENTOS EN SERIE Y EN PARALELO 
+ ELEMENTOS EN SERIE Y EN PARALELO 
+ 
+![Diapositiva2](https://user-images.githubusercontent.com/84458025/127693383-1a2aec6c-68b4-428a-9c1c-5b14b4f14c6f.JPG) 
+
 ### 2.2.7 CIRCUITOS MAGNÉTICOS CON EXCITACIÓN DE CD 
+
+![Diapositiva3](https://user-images.githubusercontent.com/84458025/127693556-df569dab-aa15-4e5e-9aaa-fc78f9b34b6e.JPG)
+
 ### 2.2.8  INTENSIDAD DE CAMPO MAGNÉTICO Y CURVAS DE MAGNETIZACIÓN 
 
 ![Intensidad de campo magnético y curvas de magnetización](https://user-images.githubusercontent.com/84425276/127590524-9e7b948f-2fc5-450f-bc6f-cc8a49bbcfc9.png)
@@ -397,10 +405,8 @@ a. Haga una gráfica del voltaje del capacitor para el circuito de la figura
 11-57 y encuentre vC en t = 4 ms.
 b. Determine la corriente en el resistor de 4 _ en t = 3.5 ms.
 
-49. Use PSpice para graficar el voltaje y la corriente del capacitor de un circuito
-de carga con E = 25 V, R = 40 Ω, V0 = 0 V y C = 400 μF. Determine los
-valores de la escala de la gráfica con el cursor. Use las ecuaciones 11-3 y 11-5
-o las curvas de la figura 11-15 para comparar los resultados que obtuvo.
+![556 (2)](https://user-images.githubusercontent.com/84458025/127694985-cdb5768e-4ab7-4bdd-92cb-7c09c12a649d.png)
+
 
 51. El interruptor de la figura 11-69 está cerrado en t = 0 s. Use PSpice para
 hacer una gráfica de las formas de onda del voltaje y la corriente. Utilice el
