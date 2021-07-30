@@ -507,7 +507,6 @@ de interruptores, siempre se debe dibujar el circuito como se ve durante cada
 intervalo de tiempo de interés.
 - Cuando un capacitor se coloca entre una fuente de cd, excepto por un breve transitorio, la
 corriente es cero.
--  
 #### 4.2  MAGNETISMO Y CIRCUITOS MAGNÉTICOS 
 -  Un electroimán es básicamente una bobina de alambre alrededor de un núcleo magnético.
 -  Los materiales que pueden ser magnetizados se llaman ferromagnéticos.
