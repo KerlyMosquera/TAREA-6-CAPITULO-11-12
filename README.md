@@ -233,6 +233,21 @@ c. Determine las ecuaciones de descarga para vC e iC.
 
 ![image](https://user-images.githubusercontent.com/84458025/127579637-a1ee90f8-03bb-460d-9e52-8f9e3d54c6cc.png)
 
+![image](https://user-images.githubusercontent.com/84458025/127579857-934c2997-1610-49f6-93f8-41f44e1cbeb7.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127579891-97bc0389-4e3b-4974-9113-e32daebca59b.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127579948-bc6cfc17-4376-4ded-a054-c6a779e7fc1f.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127579996-6a29a356-9e26-4a4e-847c-a27d9a1af639.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127580054-02e931c1-1363-4d55-b3c8-353804039719.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127580091-89f801b1-696d-4112-a157-0049dc22e0b5.png)
+
+
+
+
 
 
 ### 3.1.5 CIRCUITOS MÁS COMPLEJOS 
