@@ -30,13 +30,15 @@ Multisim.
 
 ### 2.1.2 ECUACIONES DE CARGA DEL CAPACITOR 
 
-![EC DE DESCARGA (2)](https://user-images.githubusercontent.com/84431598/127674545-bdd8704c-5f40-42be-a9f6-d022ecaf3eba.png)
 
 ### 2.1.3  CAPACITOR CON UN VOLTAJE INICIAL 
 
 ![capacitor con un voltaje inicial (2)](https://user-images.githubusercontent.com/84431598/126885960-326f62f8-cf78-40f5-b440-31ee48600506.png)
 
 ### 2.1.4 ECUACIONES DE DESCARGA DEL CAPACITOR 
+
+![EC DE DESCARGA (2)](https://user-images.githubusercontent.com/84431598/127674621-6d4b7cf0-423c-4bc4-9301-766ea82c62ea.png)
+
 ### 2.1.5 CIRCUITOS MÁS COMPLEJOS 
 
 ![1 (3)](https://user-images.githubusercontent.com/84431598/127395365-cc398bd2-1b9b-4674-bbdb-6b73dc35e833.png)
