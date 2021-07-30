@@ -252,54 +252,97 @@ c. Determine las ecuaciones de descarga para vC e iC.
 
 ### 3.1.5 CIRCUITOS MÁS COMPLEJOS 
 
-29. Los capacitores de la figura 11-55 están descargados. El interruptor se cierra
-en t = 0. Determine la ecuación para vC. Calcule vC a una constante de tiempo
-usando la ecuación y la curva de constante de tiempo universal. Compare sus
-respuestas.
+29.. Para la figura 11-54, C esta totalmente cargado antes de que el interruptor sea movido para la descarga. Justo despues que es movido, la corriente es iC _4 mA y C tarda 20 ms en descargarse. Si E _ 80 V, ¿que valores tienen R2 y C?
 
-![11-55 (2)](https://user-images.githubusercontent.com/84431598/126886155-c8873c6f-cb84-4921-8c6f-5d9fcd26760c.png)
+![image](https://user-images.githubusercontent.com/84458025/127580982-351de31c-fbc8-4b2e-992a-468c6bd6b240.png)
 
-31. Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57.
+![image](https://user-images.githubusercontent.com/84458025/127581003-c636140a-dfe8-4c26-be76-3a10e0b1d769.png)
 
-![11-57 (2)](https://user-images.githubusercontent.com/84431598/126886182-3637df96-c893-4395-9c55-fa2131396ae1.png)
+![image](https://user-images.githubusercontent.com/84458025/127581056-6ef4ae73-f7fb-441a-be6f-9b51ef0bc11c.png)
 
-33. Para el circuito de la figura 11-54, el capacitor esta inicialmente descargado.
-El interruptor es movido primero a la posición de carga y luego a la de descarga,
-proporcionando la corriente que se muestra en la figura 11-58. El capacitor
-se carga totalmente en 12.5 s. Determine E, R2 y C.
+![image](https://user-images.githubusercontent.com/84458025/127581074-9d6d1207-b718-45d4-a739-f34824ade89f.png)
 
-![11-54(2)](https://user-images.githubusercontent.com/84431598/126886207-b6e480a7-e556-4704-80a5-be1ac48cd700.png)
+![image](https://user-images.githubusercontent.com/84458025/127581142-7e5ef64e-f7bd-4630-b874-9a97d9aff46b.png)
 
-35. Determine los voltajes del capacitor y la corriente de la fuente para el circuito
-de la figura 11-60 después de que se alcanzó el estado estable.
+![image](https://user-images.githubusercontent.com/84458025/127581192-5a8b5272-0fae-4845-8546-47cefb2defca.png)
 
-![11-60 (2)](https://user-images.githubusercontent.com/84431598/126886250-1e307d99-1b6d-4530-b8d3-4283b3c611d0.png)
+
+31.Los capacitores de la figura 11-55 estan descargados. El interruptor se cierra en t=0. Determine la ecuacion para vC. Calcule vC a una constante de tiempo usando la ecuacion y la curva de constante de tiempo universal. Compare sus respuestas.
+
+![image](https://user-images.githubusercontent.com/84458025/127581295-11c5d237-5fe4-40f3-80fa-d6e714e319ff.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127581691-a2b1e690-c8be-4f22-9ea5-043ca180d3e2.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127581746-b541c4b1-c47b-435c-8ce5-3deba031d1e3.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127581787-1600c38e-6f35-45e7-8c4a-5df593f68cb1.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127581821-905dab2e-237f-4a4c-abb8-be636782d226.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127581874-ae00121c-824a-4718-a2ff-17d037cd4b39.png)
+
+
+33. Para la figura 11-56, el interruptor se cierra en t =0. Si V0 =0 V.
+
+![image](https://user-images.githubusercontent.com/84458025/127581940-dd0e2431-ce7e-463f-a4be-f616d879896a.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127582192-b7448459-e615-4b48-9978-9a32c388a1cc.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127582328-faa40768-159e-4683-9050-d23f0cb4dadc.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127582455-759103c8-66be-4a88-bf46-35a002b47965.png)
+
+35.Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57.
+
+![image](https://user-images.githubusercontent.com/84458025/127582785-bbd8625a-096f-4cad-a297-ade1c45f862b.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127582900-7cf543c6-b41d-4ee6-914d-7c6c2242d129.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127582992-b9a59d11-eb1b-47af-abf5-6860c647a3f1.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127583121-8d86e7f3-e4b8-4cb8-8879-ceffd34ebcc2.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127583265-fd8f49c9-903e-4085-a457-0115c3f22f09.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127583408-6d8ee4ea-f485-4417-8868-fe5f85b87d59.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127583489-d08f5440-caa7-4875-892d-be7b866aa15c.png)
 
 ### 3.1.6 UNA APLICACIÓN DE LA TEMPORIZACIÓN RC 
 
-37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es
-de 5 V, R = 750 kΩy la alarma es activada en 15 s cuando vC = 3.8 V, ¿que
-valor tiene C?
+37.Determine los voltajes del capacitor y la corriente de la fuente para el circuito de la figura 11-60 despues de que se alcanzo el estado estable.
+
+![image](https://user-images.githubusercontent.com/84458025/127583659-a54160a7-0423-4651-865b-3deef1ef2470.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127583788-715bc209-abdc-4398-9949-b93560b5f606.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127584115-fc7e1d9e-fe6c-408b-87f7-2de181dc686a.png)
 
 ### 3.1.7 RESPUESTA AL PULSO DE CIRCUITOS RC 
 
-39. Considere la forma de onda de la figura 11-62.
-a. ¿Cuál es el periodo?
+39.Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es de 5 V, R _ 750 k_ y la alarma es activada en 15 s cuando vC _ 3.8 V, ¿Qué valor tiene C.
 
-b. ¿Cuál es el ciclo de trabajo?
+![image](https://user-images.githubusercontent.com/84458025/127584283-60cec4a4-5cac-4118-9ed9-cef322304f01.png)
 
-c. ¿Cuál es el VRP?
+![image](https://user-images.githubusercontent.com/84458025/127584389-69821374-03a8-44c8-96c4-0747505f6901.png)
 
-![11-62 (2)](https://user-images.githubusercontent.com/84431598/126886306-4e77e3da-c0b1-4433-9e98-50f3a3288044.png)
+41.Considere la forma de onda de la figura 11-62!
 
-41. Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de
-la figura 11-64.
+![image](https://user-images.githubusercontent.com/84458025/127584504-d1ecbaa1-2902-4186-b549-2a50e7417c96.png)
 
-![11-64 (2)](https://user-images.githubusercontent.com/84431598/126886340-8fe5967a-7b88-4d90-bdd1-f1552d55c94d.png)
+a. ¿Cual es el periodo?
 
-43. Se aplica un escalón al circuito de la figura 11-66. Si R = 150Ω y C =20 pF,
-estime el tiempo que tarda en subir el voltaje de salida.
+b. ¿Cual es el ciclo de trabajo?
 
+c. ¿Cuál es el PPR?!
+
+![image](https://user-images.githubusercontent.com/84458025/127584669-98d0a2da-663b-438c-93ca-443496ff056a.png)
+
+43.Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de la figura 11-64
+
+![image](https://user-images.githubusercontent.com/84458025/127584772-dc5da9d8-c366-4d47-b1eb-b7869147498d.png)
+
+![image](https://user-images.githubusercontent.com/84458025/127584830-c74c187a-130b-44f2-aa3b-69de2cafc0d7.png)
 
 ### 3.1.8  ANÁLISIS TRANSITORIO POR COMPUTADORA 
 
