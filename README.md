@@ -486,8 +486,8 @@ b. Si ϕ= 28 mWb, ¿cuál es la densidad de flujo en teslas?
 ![image](https://user-images.githubusercontent.com/84425276/127591934-d1b14eaf-6efe-4a66-849b-9186ecbb0e06.png)
 
 ## 4. CONCLUSIONES
-## 4.1 CARGA, DESCARGA DEL CAPACITOR Y CIRCUITOS FORMADORES DE ONDA SIMPLES 
-## 4.2  MAGNETISMO Y CIRCUITOS MAGNÉTICOS 
+#### 4.1 CARGA, DESCARGA DEL CAPACITOR Y CIRCUITOS FORMADORES DE ONDA SIMPLES 
+#### 4.2  MAGNETISMO Y CIRCUITOS MAGNÉTICOS 
 -  Un electroimán es básicamente una bobina de alambre alrededor de un núcleo magnético.
 -  Los materiales que pueden ser magnetizados se llaman ferromagnéticos.
 -  Los polos magnéticos desiguales se atraen entre sí y los polos iguales se repelen uno a otro.
