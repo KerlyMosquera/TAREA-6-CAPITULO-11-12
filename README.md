@@ -389,6 +389,8 @@ c. ¿Cuál es el PPR?!
 para la escala de la gráfica en t = 20 ms, utilice el cursor. Compare los resultados
 que obtuvo con la ecuación 11-3 o la curva de la figura 11-15(a).
 
+![{8FE0FABC-0C31-44E3-A55C-F54CC5457EB7} (2)](https://user-images.githubusercontent.com/84458025/127689588-c9cf5ab3-f62a-4bc7-af30-9a740c2675f2.png)
+
 47. Considere la figura 11-57. Use Multisim y suponga condiciones iniciales de
 cero para ambos capacitores. Haga lo siguiente (véase la Nota 3).
 a. Haga una gráfica del voltaje del capacitor para el circuito de la figura
